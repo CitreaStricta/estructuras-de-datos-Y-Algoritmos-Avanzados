@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 #include "binary_heap.h"
 
 using namespace std;

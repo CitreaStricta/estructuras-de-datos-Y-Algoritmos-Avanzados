@@ -1,6 +1,6 @@
 #ifndef BINARY_HEAP
 #define BINARY_HEAP
-
+#include <vector>
 using namespace std;
 
 class BinaryHeap{

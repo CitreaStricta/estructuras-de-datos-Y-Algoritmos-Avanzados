@@ -1,8 +1,7 @@
 #ifndef RASTER
 #define RASTER
-
 #include <sdsl/suffix_arrays.hpp>
-#include <bits/stdc++.h>
+#include <vector>
 #include <fstream>
 #include <filesystem>
 #include <string>

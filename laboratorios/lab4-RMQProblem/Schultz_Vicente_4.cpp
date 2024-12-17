@@ -1,4 +1,11 @@
-#include <bits/stdc++.h>
+
+#include <vector>
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+#include <ctime>
+#include <cstdlib>
+
 using namespace std;
 
 typedef vector<int> vi;

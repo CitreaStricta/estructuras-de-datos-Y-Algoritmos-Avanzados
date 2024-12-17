@@ -1,6 +1,9 @@
-#include <bits/stdc++.h>
 #include <sdsl/vectors.hpp>
 #include "invertedIndex.hpp"
+#include <map>
+#include <fstream>
+#include <vector>
+#include <iomanip>
 
 using namespace std;
 using namespace sdsl;

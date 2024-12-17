@@ -2,6 +2,7 @@
 #define BINOMIAL_HEAP
 #include <iostream>
 #include <vector>
+#include <cstdint>
 using namespace std;
 
 struct node

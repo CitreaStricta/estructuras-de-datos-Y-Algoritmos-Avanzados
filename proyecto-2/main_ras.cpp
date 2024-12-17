@@ -1,3 +1,4 @@
+#include <iostream>
 #include "raster.h"
 
 int main(int argc, char const *argv[]) // compilar con: g++ -std=c++17 -O3 -DNDEBUG -I ~/include -L ~/lib program.cpp -o program -lsdsl -ldivsufsort -ldivsufsort64
